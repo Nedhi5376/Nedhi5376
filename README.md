@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Nadh116">
+<a href="https://github.com/Nedhi5376">
 <img src="https://img.shields.io/github/followers/Nadh116?label=Followers&style=for-the-badge&color=0F4C81"/>
 </a>
 
-<a href="https://komarev.com/ghpvc/?username=Nadh116">
-<img src="https://komarev.com/ghpvc/?username=Nadh116&style=for-the-badge&color=38BDF8"/>
+<a href="https://komarev.com/ghpvc/?username=Nedhi5376">
+<img src="https://komarev.com/ghpvc/?username=Nedhi5376&style=for-the-badge&color=38BDF8"/>
 </a>
 
 <a href="https://github.com/Nedhi5376">
-<img src="https://img.shields.io/github/stars/Nadh116?affiliations=OWNER&style=for-the-badge&color=1D4ED8"/>
+<img src="https://img.shields.io/github/stars/Nedhi5376?affiliations=OWNER&style=for-the-badge&color=1D4ED8"/>
 </a>
 </p>
 
@@ -316,15 +316,15 @@ React • Tailwind CSS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nadh116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nedhi5376&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadh116&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nedhi5376&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nadh116&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Nedhi5376&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -334,7 +334,7 @@ React • Tailwind CSS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nadh116&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nedhi5376&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -344,7 +344,7 @@ React • Tailwind CSS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nadh116&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nedhi5376&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -354,7 +354,7 @@ React • Tailwind CSS
 
 <div align="center">
 
-<a href="https://github.com/Nadh116">
+<a href="https://github.com/Nedhi5376">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
