@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=Nadh116&style=for-the-badge&color=38BDF8"/>
 </a>
 
-<a href="https://github.com/Nadh116">
+<a href="https://github.com/Nedhi5376">
 <img src="https://img.shields.io/github/stars/Nadh116?affiliations=OWNER&style=for-the-badge&color=1D4ED8"/>
 </a>
 </p>
