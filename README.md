@@ -24,14 +24,14 @@
 
 ---
 
-# 👋 Hello, I'm Nadhii Jemal
+#  Hello, I'm Nadhii Jemal
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 💻 Full-Stack Developer
 
-🎓 **4th-Year Software Engineering Student**
-🏫 **Haramaya University**
+ **4th-Year Software Engineering Student**
+ **Haramaya University**
 
 I enjoy designing and building **modern, secure, scalable, and high-performance web applications** using the MERN stack and related technologies.
 
@@ -39,7 +39,7 @@ My focus is on writing clean code, creating intuitive user experiences, and deve
 
 ---
 
-# 💼 Developer Profile
+# Developer Profile
 
 ```javascript
 const developer = {
@@ -93,20 +93,20 @@ const developer = {
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
-* 🚀 Become a Professional Software Engineer
-* 📚 Master Backend Architecture
-* ☁️ Learn Cloud Technologies
+*  Become a Professional Software Engineer
+*  Master Backend Architecture
+*  Learn Cloud Technologies
 * 🔐 Build Secure Applications
 * 🌍 Contribute to Open Source Projects
-* 💼 Work on Real-World Software Solutions
+*  Work on Real-World Software Solutions
 
 ---
 
 ---
 
-# 🛠️ Tech Stack & Tools
+#  Tech Stack & Tools
 
 <div align="center">
 
@@ -116,7 +116,7 @@ const developer = {
 
 ---
 
-### 🎨 Frontend Development
+###  Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
 
@@ -134,7 +134,7 @@ const developer = {
 
 ---
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 
@@ -142,7 +142,7 @@ const developer = {
 
 ---
 
-# 🏗️ Full-Stack Development Architecture
+#  Full-Stack Development Architecture
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -177,7 +177,7 @@ const developer = {
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <table>
 <tr>
@@ -374,7 +374,7 @@ React • Tailwind CSS
 
 <div align="center">
 
-### 🚀 Visit My Portfolio
+### Visit My Portfolio
 
 **https://professional-portfolio-theta-khaki.vercel.app/**
 
@@ -382,7 +382,7 @@ React • Tailwind CSS
 
 ---
 
-# 💼 Professional Summary
+# Professional Summary
 
 ```text
 Name        : Nadhii Jemal
@@ -424,6 +424,6 @@ while continuously learning modern software engineering practices.
 
 If you enjoy my work or find my projects helpful, consider giving them a ⭐.
 
-**Happy Coding! 🚀**
+**Happy Coding! **
 
 </div>
