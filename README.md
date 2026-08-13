@@ -4,8 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F4C81,100:38BDF8&text=Nadhii%20Jemal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Software%20Engineering%20Student&descAlignY=55"/>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Secure+and+Scalable+Applications;MERN+Stack+Developer;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Secure+and+Scalable+Applications;MERN+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
