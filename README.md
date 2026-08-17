@@ -16,24 +16,40 @@
 </p>
 
 <p align="center">
+
   <a href="https://github.com/Nedhi5376">
-    <img src="https://img.shields.io/github/followers/Nedhi5376?label=Followers&style=for-the-badge&color=0F4C81" alt="GitHub Followers"/>
+    <img
+      src="https://img.shields.io/github/followers/Nedhi5376?label=Followers&style=for-the-badge&color=0F4C81"
+      alt="GitHub Followers"
+    />
   </a>
 
   <a href="https://github.com/Nedhi5376?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Nedhi5376?affiliations=OWNER&style=for-the-badge&color=1D4ED8" alt="GitHub Stars"/>
+    <img
+      src="https://img.shields.io/github/stars/Nedhi5376?affiliations=OWNER&style=for-the-badge&color=1D4ED8"
+      alt="GitHub Stars"
+    />
   </a>
 
   <a href="https://komarev.com/ghpvc/?username=Nedhi5376">
-    <img src="https://komarev.com/ghpvc/?username=Nedhi5376&style=for-the-badge&color=38BDF8" alt="Profile Views"/>
+    <img
+      src="https://komarev.com/ghpvc/?username=Nedhi5376&style=for-the-badge&color=38BDF8"
+      alt="Profile Views"
+    />
   </a>
+
 </p>
 
 ---
 
 # 👋 Hello, I'm Nadhii Jemal
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
+<img
+align="right"
+width="330"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+alt="Coding Animation"
+/>
 
 ### 💻 Full-Stack Developer
 
@@ -119,23 +135,38 @@ const developer = {
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=javascript,java,python,cpp,php" alt="Programming Languages"/>
+<img
+src="https://skillicons.dev/icons?i=javascript,java,python,cpp,php"
+alt="Programming Languages"
+/>
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend Technologies"/>
+<img
+src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"
+alt="Frontend Technologies"
+/>
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
+<img
+src="https://skillicons.dev/icons?i=nodejs,express"
+alt="Backend Technologies"
+/>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+<img
+src="https://skillicons.dev/icons?i=mongodb,mysql"
+alt="Databases"
+/>
 
 ### 🔧 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools and Platforms"/>
+<img
+src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"
+alt="Tools and Platforms"
+/>
 
 </div>
 
@@ -312,13 +343,13 @@ A responsive portfolio website showcasing my technical skills, projects, and sof
 <img
 height="180"
 src="https://github-readme-stats.vercel.app/api?username=Nedhi5376&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-alt="Nedhi5376 GitHub Stats"
+alt="Nedhi5376 GitHub Statistics"
 />
 
 <img
 height="180"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nedhi5376&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages"
+alt="Nedhi5376 Top Languages"
 />
 
 </div>
@@ -329,12 +360,10 @@ alt="Top Languages"
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com/?user=Nedhi5376&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Streak"
-  />
-</a>
+<img
+src="https://streak-stats.demolab.com/?user=Nedhi5376&theme=tokyonight&hide_border=true&border_radius=10"
+alt="Nedhi5376 GitHub Streak"
+/>
 
 </div>
 
@@ -346,7 +375,7 @@ alt="Top Languages"
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=Nedhi5376&theme=tokyo-night&hide_border=true"
-alt="GitHub Contribution Activity Graph"
+alt="Nedhi5376 GitHub Contribution Activity"
 />
 
 </div>
@@ -359,7 +388,7 @@ alt="GitHub Contribution Activity Graph"
 
 <img
 src="https://github-profile-trophy.vercel.app/?username=Nedhi5376&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"
-alt="GitHub Profile Trophies"
+alt="Nedhi5376 GitHub Trophies"
 />
 
 </div>
@@ -371,15 +400,27 @@ alt="GitHub Profile Trophies"
 <div align="center">
 
 <a href="https://github.com/Nedhi5376">
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    height="50"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/nedhi-jemal-8306b3371/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  <img
+    src="https://skillicons.dev/icons?i=linkedin"
+    height="50"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:nadhijemal503@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
+  <img
+    src="https://skillicons.dev/icons?i=gmail"
+    height="50"
+    alt="Email"
+  />
 </a>
 
 </div>
@@ -448,23 +489,3 @@ If you enjoy my work or find my projects helpful, consider giving them a ⭐.
 ### 🚀 Happy Coding!
 
 </div>
-
-<!--
-============================================================
-                    GITHUB PROFILE README
-============================================================
-
-GitHub Username:
-Nedhi5376
-
-LinkedIn:
-https://www.linkedin.com/in/nedhi-jemal-8306b3371/
-
-Portfolio:
-https://professional-portfolio-theta-khaki.vercel.app/
-
-Email:
-nadhijemal503@gmail.com
-
-============================================================
--->
