@@ -1,49 +1,59 @@
 <!-- ===================== PREMIUM HEADER ===================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F4C81,100:38BDF8&text=Nadhii%20Jemal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Software%20Engineering%20Student&descAlignY=55"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F4C81,100:38BDF8&text=Nadhii%20Jemal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=55"
+    alt="Nadhii Jemal Header"
+  />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Secure+and+Scalable+Applications;MERN+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Secure+and+Scalable+Applications;MERN+Stack+Developer;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-<a href="https://github.com/Nedhi5376">
-<img src="https://img.shields.io/github/followers/Nadh116?label=Followers&style=for-the-badge&color=0F4C81"/>
-</a>
+  <a href="https://github.com/Nedhi5376">
+    <img src="https://img.shields.io/github/followers/Nedhi5376?label=Followers&style=for-the-badge&color=0F4C81" alt="GitHub Followers"/>
+  </a>
 
-<a href="https://komarev.com/ghpvc/?username=Nedhi5376">
-<img src="https://komarev.com/ghpvc/?username=Nedhi5376&style=for-the-badge&color=38BDF8"/>
-</a>
+  <a href="https://github.com/Nedhi5376?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Nedhi5376?affiliations=OWNER&style=for-the-badge&color=1D4ED8" alt="GitHub Stars"/>
+  </a>
 
-<a href="https://github.com/Nedhi5376">
-<img src="https://img.shields.io/github/stars/Nedhi5376?affiliations=OWNER&style=for-the-badge&color=1D4ED8"/>
-</a>
+  <a href="https://komarev.com/ghpvc/?username=Nedhi5376">
+    <img src="https://komarev.com/ghpvc/?username=Nedhi5376&style=for-the-badge&color=38BDF8" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-#  Hello, I'm Nadhii Jemal
+# 👋 Hello, I'm Nadhii Jemal
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
 ### 💻 Full-Stack Developer
 
- **4th-Year Software Engineering Student**
- **Haramaya University**
+**4th-Year Software Engineering Student**
+**Haramaya University 🇪🇹**
 
 I enjoy designing and building **modern, secure, scalable, and high-performance web applications** using the MERN stack and related technologies.
 
 My focus is on writing clean code, creating intuitive user experiences, and developing software that solves real-world problems.
 
+<br clear="right"/>
+
 ---
 
-# Developer Profile
+# 👨‍💻 Developer Profile
 
 ```javascript
 const developer = {
     name: "Nadhii Jemal",
-    username: "Nadh116",
+    username: "Nedhi5376",
     role: "Full Stack Developer",
 
     education: {
@@ -92,63 +102,53 @@ const developer = {
 
 ---
 
-##  Current Goals
+# 🎯 Current Goals
 
-*  Become a Professional Software Engineer
-*  Master Backend Architecture
-*  Learn Cloud Technologies
+* 🚀 Become a Professional Software Engineer
+* 🏗️ Master Backend Architecture
+* ☁️ Learn Cloud Technologies
 * 🔐 Build Secure Applications
 * 🌍 Contribute to Open Source Projects
-*  Work on Real-World Software Solutions
+* 💡 Work on Real-World Software Solutions
 
 ---
 
----
-
-#  Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=javascript,java,python,cpp,php"/>
+<img src="https://skillicons.dev/icons?i=javascript,java,python,cpp,php" alt="Programming Languages"/>
 
----
+### 🎨 Frontend Development
 
-###  Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
-
----
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend Technologies"/>
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
----
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
 
----
+### 🔧 Tools & Platforms
 
-###  Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools and Platforms"/>
 
 </div>
 
 ---
 
-#  Full-Stack Development Architecture
+# 🏗️ Full-Stack Development Architecture
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                     NADHII TECH • FULL STACK ARCHITECTURE                   │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
-│                            🌐 CLIENT LAYER                                 │
+│                            🌐 CLIENT LAYER                                  │
 │                                                                             │
 │        React.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap                  │
 │                                 │                                           │
@@ -156,9 +156,9 @@ const developer = {
 │                  REST API • JSON • JWT Authentication                       │
 │                                 │                                           │
 │                                 ▼                                           │
-│                           ⚙️ SERVER LAYER                                  │
+│                           ⚙️ SERVER LAYER                                   │
 │                                                                             │
-│                  Node.js • Express.js • PHP REST APIs                       │
+│                  Node.js • Express.js • PHP REST APIs                      │
 │                                 │                                           │
 │                                 ▼                                           │
 │                           🗄️ DATABASE LAYER                                │
@@ -167,16 +167,16 @@ const developer = {
 │                                                                             │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
-│  ✅ Secure Authentication      ✅ RESTful APIs                              │
-│  ✅ Scalable Architecture      ✅ Responsive Design                         │
-│  ✅ Clean Code                 ✅ High Performance                          │
+│  🔐 Secure Authentication      🔌 RESTful APIs                             │
+│  📈 Scalable Architecture      📱 Responsive Design                        │
+│  🧹 Clean Code                 ⚡ High Performance                           │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-#  Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -200,7 +200,7 @@ A professional web-based platform that helps organizations identify, assess, pri
 
 **Technology Stack**
 
-React • Node.js • Express.js • MongoDB
+`React` • `Node.js` • `Express.js` • `MongoDB`
 
 </td>
 
@@ -223,7 +223,7 @@ A modern role-based school management platform designed to streamline academic a
 
 **Technology Stack**
 
-React • Node.js • Express.js • MongoDB
+`React` • `Node.js` • `Express.js` • `MongoDB`
 
 </td>
 
@@ -249,7 +249,7 @@ A scalable online marketplace connecting customers, vendors, and community deliv
 
 **Technology Stack**
 
-React • Node.js • Express.js • MongoDB
+`React` • `Node.js` • `Express.js` • `MongoDB`
 
 </td>
 
@@ -270,7 +270,7 @@ A responsive portfolio website showcasing my technical skills, projects, and sof
 
 **Technology Stack**
 
-React • Tailwind CSS
+`React` • `Tailwind CSS`
 
 </td>
 
@@ -305,25 +305,36 @@ React • Tailwind CSS
 
 ---
 
----
-
-
----
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nedhi5376&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=Nedhi5376&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+alt="Nedhi5376 GitHub Stats"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nedhi5376&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nedhi5376&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"
+/>
 
 </div>
 
+---
+
+# 🔥 GitHub Streak
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nedhi5376&theme=tokyonight&hide_border=true"/>
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com/?user=Nedhi5376&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
+</a>
 
 </div>
 
@@ -333,7 +344,10 @@ React • Tailwind CSS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nedhi5376&theme=tokyo-night&hide_border=true"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Nedhi5376&theme=tokyo-night&hide_border=true"
+alt="GitHub Contribution Activity Graph"
+/>
 
 </div>
 
@@ -343,7 +357,10 @@ React • Tailwind CSS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nedhi5376&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=Nedhi5376&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"
+alt="GitHub Profile Trophies"
+/>
 
 </div>
 
@@ -354,15 +371,15 @@ React • Tailwind CSS
 <div align="center">
 
 <a href="https://github.com/Nedhi5376">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<a href="https://www.linkedin.com/in/nedhi-jemal-8306b3371/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:nadhijemal503@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
 </a>
 
 </div>
@@ -373,15 +390,20 @@ React • Tailwind CSS
 
 <div align="center">
 
-### Visit My Portfolio
+### 🚀 Visit My Portfolio
 
-**https://professional-portfolio-theta-khaki.vercel.app/**
+<a href="https://professional-portfolio-theta-khaki.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio Website"
+  />
+</a>
 
 </div>
 
 ---
 
-# Professional Summary
+# 👨‍💻 Professional Summary
 
 ```text
 Name        : Nadhii Jemal
@@ -423,6 +445,26 @@ while continuously learning modern software engineering practices.
 
 If you enjoy my work or find my projects helpful, consider giving them a ⭐.
 
-**Happy Coding! **
+### 🚀 Happy Coding!
 
 </div>
+
+<!--
+============================================================
+                    GITHUB PROFILE README
+============================================================
+
+GitHub Username:
+Nedhi5376
+
+LinkedIn:
+https://www.linkedin.com/in/nedhi-jemal-8306b3371/
+
+Portfolio:
+https://professional-portfolio-theta-khaki.vercel.app/
+
+Email:
+nadhijemal503@gmail.com
+
+============================================================
+-->
