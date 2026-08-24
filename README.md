@@ -64,7 +64,7 @@ My focus is on writing clean code, creating intuitive user experiences, and deve
 
 ---
 
-# 👨‍💻 Developer Profile
+# 👨‍💻 Developer 
 
 ```javascript
 const developer = {
