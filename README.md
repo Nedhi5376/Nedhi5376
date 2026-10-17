@@ -53,7 +53,7 @@ alt="Coding Animation"
 
 ### 💻 Full-Stack Developer
 
-**4th-Year Software Engineering Student**
+**5th-Year Software Engineering Student**
 **Haramaya University 🇪🇹**
 
 I enjoy designing and building **modern, secure, scalable, and high-performance web applications** using the MERN stack and related technologies.
