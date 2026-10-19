@@ -1,491 +1,232 @@
-<!-- ===================== PREMIUM HEADER ===================== -->
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F4C81,100:38BDF8&text=Nadhii%20Jemal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=55"
-    alt="Nadhii Jemal Header"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Secure+and+Scalable+Applications;MERN+Stack+Developer;Always+Learning+New+Technologies"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/Nedhi5376">
-    <img
-      src="https://img.shields.io/github/followers/Nedhi5376?label=Followers&style=for-the-badge&color=0F4C81"
-      alt="GitHub Followers"
-    />
-  </a>
-
-  <a href="https://github.com/Nedhi5376?tab=repositories">
-    <img
-      src="https://img.shields.io/github/stars/Nedhi5376?affiliations=OWNER&style=for-the-badge&color=1D4ED8"
-      alt="GitHub Stars"
-    />
-  </a>
-
-  <a href="https://komarev.com/ghpvc/?username=Nedhi5376">
-    <img
-      src="https://komarev.com/ghpvc/?username=Nedhi5376&style=for-the-badge&color=38BDF8"
-      alt="Profile Views"
-    />
-  </a>
-
-</p>
-
----
-
-# 👋 Hello, I'm Nadhii Jemal
-
-<img
-align="right"
-width="330"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-alt="Coding Animation"
-/>
-
-### 💻 Full-Stack Developer
-
-**5th-Year Software Engineering Student**
-**Haramaya University 🇪🇹**
-
-I enjoy designing and building **modern, secure, scalable, and high-performance web applications** using the MERN stack and related technologies.
-
-My focus is on writing clean code, creating intuitive user experiences, and developing software that solves real-world problems.
-
-<br clear="right"/>
-
----
-
-# 👨‍💻 Developer Profile
-
-```javascript
-const developer = {
-    name: "Nadhii Jemal",
-    username: "Nedhi5376",
-    role: "Full Stack Developer",
-
-    education: {
-        university: "Haramaya University",
-        degree: "BSc Software Engineering",
-        year: "4th Year"
-    },
-
-    location: "Ethiopia 🇪🇹",
-
-    frontend: [
-        "React",
-        "HTML",
-        "CSS",
-        "Tailwind CSS",
-        "Bootstrap"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "PHP"
-    ],
-
-    databases: [
-        "MongoDB",
-        "MySQL"
-    ],
-
-    programming: [
-        "JavaScript",
-        "Java",
-        "Python",
-        "C++"
-    ],
-
-    currentlyLearning: [
-        "System Design",
-        "REST API Security",
-        "Cloud Computing"
-    ],
-
-    availableForWork: true
-};
-```
-
----
-
-# 🎯 Current Goals
-
-* 🚀 Become a Professional Software Engineer
-* 🏗️ Master Backend Architecture
-* ☁️ Learn Cloud Technologies
-* 🔐 Build Secure Applications
-* 🌍 Contribute to Open Source Projects
-* 💡 Work on Real-World Software Solutions
-
----
-
-# 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<img
-src="https://skillicons.dev/icons?i=javascript,java,python,cpp,php"
-alt="Programming Languages"
-/>
-
-### 🎨 Frontend Development
-
-<img
-src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"
-alt="Frontend Technologies"
-/>
-
-### ⚙️ Backend Development
-
-<img
-src="https://skillicons.dev/icons?i=nodejs,express"
-alt="Backend Technologies"
-/>
-
-### 🗄️ Databases
-
-<img
-src="https://skillicons.dev/icons?i=mongodb,mysql"
-alt="Databases"
-/>
-
-### 🔧 Tools & Platforms
-
-<img
-src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"
-alt="Tools and Platforms"
-/>
-
-</div>
-
----
-
-# 🏗️ Full-Stack Development Architecture
-
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                     NADHII TECH • FULL STACK ARCHITECTURE                   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│                            🌐 CLIENT LAYER                                  │
-│                                                                             │
-│        React.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap                  │
-│                                 │                                           │
-│                                 ▼                                           │
-│                  REST API • JSON • JWT Authentication                       │
-│                                 │                                           │
-│                                 ▼                                           │
-│                           ⚙️ SERVER LAYER                                   │
-│                                                                             │
-│                  Node.js • Express.js • PHP REST APIs                      │
-│                                 │                                           │
-│                                 ▼                                           │
-│                           🗄️ DATABASE LAYER                                │
-│                                                                             │
-│                     MongoDB                 MySQL                           │
-│                                                                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  🔐 Secure Authentication      🔌 RESTful APIs                             │
-│  📈 Scalable Architecture      📱 Responsive Design                        │
-│  🧹 Clean Code                 ⚡ High Performance                           │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🛡️ Cybersecurity Risk Analysis & Reporting System
-
-A professional web-based platform that helps organizations identify, assess, prioritize, and report cybersecurity risks.
-
-### Key Features
-
-* 🔐 Secure User Authentication
-* 📊 Interactive Risk Dashboard
-* ⚠️ Threat & Vulnerability Assessment
-* 📈 Risk Scoring & Analysis
-* 📄 Automated Security Reports
-* 👥 Role-Based Access Control
-* 📋 Audit Logs & Activity Tracking
-* 📉 Charts & Analytics
-
-**Technology Stack**
-
-`React` • `Node.js` • `Express.js` • `MongoDB`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎓 School Management System
-
-A modern role-based school management platform designed to streamline academic and administrative operations.
-
-### Key Features
-
-* 👨‍💼 Admin Dashboard
-* 👩‍🏫 Teacher Management
-* 👨‍🎓 Student Information System
-* 👨‍👩‍👧 Parent Portal
-* 📊 Student Grading & Ranking
-* 📅 Attendance Management
-* 📄 Report Card Generation
-* 🔐 Secure Authentication
-
-**Technology Stack**
-
-`React` • `Node.js` • `Express.js` • `MongoDB`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🛒 Inclusive E-Commerce Platform
-
-A scalable online marketplace connecting customers, vendors, and community delivery services.
-
-### Key Features
-
-* 🛍️ Product Management
-* 🛒 Shopping Cart
-* 📦 Order Tracking
-* 🚚 Delivery Management
-* 💳 Secure Checkout
-* 👤 User Dashboard
-* 📱 Responsive Design
-
-**Technology Stack**
-
-`React` • `Node.js` • `Express.js` • `MongoDB`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 Personal Portfolio Website
-
-A responsive portfolio website showcasing my technical skills, projects, and software engineering journey.
-
-### Key Features
-
-* 🎨 Modern User Interface
-* 📂 Project Showcase
-* 🛠️ Technical Skills
-* 📞 Contact Section
-* ⚡ Optimized Performance
-* 📱 Mobile-Friendly Design
-
-**Technology Stack**
-
-`React` • `Tailwind CSS`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📚 Currently Learning
-
-| Technology           |    Progress    |
-| -------------------- | :------------: |
-| 🚀 Advanced React    | █████████░ 90% |
-| ⚙️ Node.js & Express | █████████░ 90% |
-| 🍃 MongoDB           | ████████░░ 85% |
-| ☁️ Cloud Computing   | ██████░░░░ 65% |
-| 🏗️ System Design    | ██████░░░░ 65% |
-| 🔐 Cybersecurity     | ███████░░░ 75% |
-
----
-
-# 💡 Areas of Interest
-
-* 🌐 Full-Stack Web Development
-* 🛡️ Cybersecurity & Risk Management
-* 🔐 Secure Authentication Systems
-* 📊 Enterprise Management Systems
-* 🏫 Education Technology Solutions
-* 🛒 E-Commerce Platforms
-* ⚡ RESTful API Development
-* ☁️ Cloud & Scalable Applications
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=Nedhi5376&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-alt="Nedhi5376 GitHub Statistics"
-/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nedhi5376&layout=compact&theme=tokyonight&hide_border=true"
-alt="Nedhi5376 Top Languages"
-/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=Nedhi5376&theme=tokyonight&hide_border=true&border_radius=10"
-alt="Nedhi5376 GitHub Streak"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Nedhi5376&theme=tokyo-night&hide_border=true"
-alt="Nedhi5376 GitHub Contribution Activity"
-/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Nedhi5376&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"
-alt="Nedhi5376 GitHub Trophies"
-/>
-
-</div>
-
----
-
-# 📡 Connect With Me
-
 <div align="center">
 
 <a href="https://github.com/Nedhi5376">
-  <img
-    src="https://skillicons.dev/icons?i=github"
-    height="50"
-    alt="GitHub"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile;Software+Engineering+Student;Full-Stack+Developer;Aspiring+DevOps+Engineer" alt="Animated introduction" />
 </a>
 
-<a href="https://www.linkedin.com/in/nedhi-jemal-8306b3371/">
-  <img
-    src="https://skillicons.dev/icons?i=linkedin"
-    height="50"
-    alt="LinkedIn"
-  />
-</a>
+# 🟢 NADHII JEMAL ABDULA
 
-<a href="mailto:nadhijemal503@gmail.com">
-  <img
-    src="https://skillicons.dev/icons?i=gmail"
-    height="50"
-    alt="Email"
-  />
-</a>
+### SOFTWARE ENGINEERING STUDENT · FULL-STACK DEVELOPER
+
+**Haramaya University, Ethiopia · 5th-Year Software Engineering Student**
+
+*Code. Build. Solve. Improve.*
+
+<p>
+<a href="https://github.com/Nedhi5376"><img src="https://img.shields.io/badge/GitHub-Nedhi5376-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/nedhi-jemal-8306b3371/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://professional-portfolio-theta-khaki.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:nadhijemal503@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
 
 ---
 
-# 🌐 Portfolio
+## 👨‍💻 About Me
+
+I'm **Nadhii Jemal Abdula**, a 5th-year Software Engineering student at Haramaya University, Ethiopia, passionate about software development, problem-solving, and building practical technology solutions.
+
+I am interested in developing modern web applications, designing reliable backend systems, working with databases, and applying secure software engineering practices. I enjoy turning requirements into useful applications while continuously improving my technical skills.
+
+My project experience includes a cybersecurity risk assessment and reporting system developed in the context of my INSA internship, alongside e-commerce and university management projects.
+
+- 🎓 **Education:** Software Engineering, Haramaya University
+- 💻 **Primary interest:** Full-stack web development
+- 🔐 **Technical interest:** Cybersecurity and secure application design
+- 🌱 **Currently learning:** DevOps and Django
+- 🎯 **Goal:** Build secure, maintainable, and reliable software solutions
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies"/>
+</p>
+
+- Responsive user interfaces
+- Component-based development
+- Frontend and REST API integration
+- React and Next.js application development
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" alt="Backend technologies"/>
+</p>
+
+- Server-side application development
+- REST API design and integration
+- Request validation and error handling
+- Authentication and authorization fundamentals
+- Django backend development — currently learning
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database technologies"/>
+</p>
+
+- Database design and data modeling
+- CRUD operations and API integration
+- Relational and document database concepts
+
+### Tools and DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Tools and DevOps"/>
+</p>
+
+- Git and GitHub
+- Docker and containerization fundamentals
+- Linux command-line fundamentals
+- Deployment and CI/CD concepts
+
+### Engineering Practices
+
+- Clean code and modular architecture
+- Software testing and debugging
+- Cybersecurity and risk assessment
+- Database integration
+- Technical documentation and continuous improvement
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Cyber Security Risk Analysis and Reporting System (CSRARS)
+
+**Context:** INSA Internship Project
+
+A web application project focused on supporting questionnaire-based cybersecurity risk assessment and reporting.
+
+**Focus areas:**
+- Cybersecurity risk assessment
+- AI-assisted analysis workflows
+- Risk register and reporting
+- Web application and data management
+
+**Technologies:** Next.js, React, TypeScript, MongoDB
+
+### 2. Ariiti Market Platform
+
+An e-commerce platform project involving web application development and administrative workflows.
+
+**Focus areas:**
+- Admin web interface development
+- Role-based access control and authorization
+- Frontend and backend integration
+- Maintainable application architecture
+
+### 3. Haramaya University Red Cross Club Management System
+
+A university project focused on supporting club management and organizing relevant information and activities.
+
+**Focus areas:** Web development, data management, and user-focused system design.
+
+### 4. Personal Portfolio Website
+
+A personal portfolio presenting my background, technical interests, and selected software projects.
+
+🔗 [Visit My Portfolio](https://professional-portfolio-theta-khaki.vercel.app/)
+
+---
+
+## 🏗️ My Development Approach
 
 <div align="center">
 
-### 🚀 Visit My Portfolio
+<img src="https://img.shields.io/badge/01-USER%20NEEDS-181717?style=for-the-badge" alt="User needs"/>
 
-<a href="https://professional-portfolio-theta-khaki.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio Website"
-  />
-</a>
+<br/>⬇️
+
+<img src="https://img.shields.io/badge/02-REQUIREMENTS%20ANALYSIS-14532D?style=for-the-badge" alt="Requirements analysis"/>
+
+<br/>⬇️
+
+<img src="https://img.shields.io/badge/03-SYSTEM%20DESIGN-166534?style=for-the-badge" alt="System design"/>
+
+<br/>⬇️
+
+<img src="https://img.shields.io/badge/04-FRONTEND%20%2B%20BACKEND-15803D?style=for-the-badge" alt="Frontend and backend"/>
+
+<br/>⬇️
+
+<img src="https://img.shields.io/badge/05-DATABASE%20%2B%20APIs-16A34A?style=for-the-badge" alt="Database and APIs"/>
+
+<br/>⬇️
+
+<img src="https://img.shields.io/badge/06-TESTING%20%26%20DEBUGGING-22C55E?style=for-the-badge" alt="Testing and debugging"/>
+
+<br/>⬇️
+
+<img src="https://img.shields.io/badge/07-DEPLOYMENT%20%26%20IMPROVEMENT-2ECC71?style=for-the-badge" alt="Deployment and improvement"/>
+
+</div>
+
+I value readable code, clear responsibilities, maintainable architecture, appropriate security controls, and continuous learning.
+
+---
+
+## 📚 Currently Learning
+
+<p>
+<img src="https://img.shields.io/badge/DevOps-Currently%20Learning-2ECC71?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps"/>
+<img src="https://img.shields.io/badge/Django-Currently%20Learning-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</p>
+
+My current learning priorities include:
+
+- Docker and containerization
+- Linux and deployment workflows
+- Django backend development
+- CI/CD fundamentals
+- Application security and testing
+- Software architecture and API design
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nedhi5376&show_icons=true&theme=dark&hide_border=true&title_color=2ECC71&icon_color=2ECC71" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nedhi5376&layout=compact&theme=dark&hide_border=true&title_color=2ECC71" alt="Most used programming languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Nedhi5376&theme=dark&hide_border=true&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Professional Summary
+## 🎯 Professional Goals
 
-```text
-Name        : Nadhii Jemal
-Role        : Full Stack Developer
-Education   : B.Sc. Software Engineering
-University  : Haramaya University
-Location    : Ethiopia 🇪🇹
-
-Specialties
-------------
-✔ MERN Stack Development
-✔ REST API Development
-✔ Database Design
-✔ Cybersecurity Risk Analysis
-✔ Responsive Web Applications
-✔ Clean & Maintainable Code
-
-Current Goal
-------------
-Building secure, scalable, and impactful software solutions
-while continuously learning modern software engineering practices.
-```
+- Strengthen my full-stack and backend development skills.
+- Build secure, maintainable, and scalable applications.
+- Improve database design and software architecture knowledge.
+- Develop practical DevOps and deployment skills.
+- Collaborate with developers and contribute to meaningful projects.
+- Continue learning through hands-on development and problem-solving.
 
 ---
 
-# 💬 Favorite Quote
+## 🤝 Connect With Me
 
 <div align="center">
 
-> **"Great software is built with curiosity, consistency, and a commitment to continuous improvement."**
+<p>
+<a href="https://github.com/Nedhi5376"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/nedhi-jemal-8306b3371/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://professional-portfolio-theta-khaki.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:nadhijemal503@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-</div>
+### 💚 Learn Continuously. Build Thoughtfully. Solve Real Problems.
 
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-If you enjoy my work or find my projects helpful, consider giving them a ⭐.
-
-### 🚀 Happy Coding!
+*Thank you for visiting my GitHub profile!*
 
 </div>
