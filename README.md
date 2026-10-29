@@ -15,17 +15,7 @@
   />
 </p>
 
-<p>
-  <a href="https://github.com/Nedhi5376">
-    <img src="https://img.shields.io/badge/GitHub-Nedhi5376-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/nedhi-jemal-8306b3371/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://professional-portfolio-theta-khaki.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+
 
 </div>
 
