@@ -8,12 +8,7 @@
   />
 </p>
 
-<p>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;5th-Year+Software+Engineering+Student;Building+Modern+Web+Applications;Currently+Learning+DevOps+%26+Django;Always+Learning+%7C+Always+Building"
-    alt="Animated introduction"
-  />
-</p>
+
 
 <p>
   <a href="https://github.com/Nedhi5376">
