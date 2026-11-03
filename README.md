@@ -1,12 +1,6 @@
  <div align="center">
 
-<p>
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,50:064E3B,100:22C55E&text=Nadhii%20Jemal%20Abdula&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45"
-    alt="Nadhii Jemal Abdula"
-  />
-</p>
+
 
 <p>
   <img
