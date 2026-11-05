@@ -33,13 +33,6 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Nadhii Jemal Abdula**, a 5th-year Software Engineering student at Haramaya University, Ethiopia. I'm passionate about building practical, secure, and maintainable software solutions.
-
-- 💻 Interested in full-stack web development and software engineering.
-- 🌱 Currently learning **DevOps  **.
-- 🔐 Interested in cybersecurity and application security.
-- 🧠 Enjoy solving problems and exploring new technologies.
-- 🚀 Focused on writing clean code and developing reliable applications.
 
 ---
 
