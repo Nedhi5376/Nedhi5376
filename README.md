@@ -1,6 +1,5 @@
  <div align="center">
 
-
 <p>
   <img
     width="100%"
@@ -8,13 +7,13 @@
     alt="Nadhii Jemal Abdula"
   />
 </p>
+
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;5th-Year+Software+Engineering+Student;Building+Modern+Web+Applications;Currently+Learning+DevOps+%26+Django;Always+Learning+%7C+Always+Building"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;5th-Year+Software+Engineering+Student;Building+Modern+Web+Applications;Currently+Learning+DevOps;Always+Learning+%7C+Always+Building"
     alt="Animated introduction"
   />
 </p>
-
 
 <p>
   <a href="https://github.com/Nedhi5376">
@@ -27,6 +26,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
 </div>
 
 ---
@@ -36,7 +36,7 @@
 Hello! I'm **Nadhii Jemal Abdula**, a 5th-year Software Engineering student at Haramaya University, Ethiopia. I'm passionate about building practical, secure, and maintainable software solutions.
 
 - 💻 Interested in full-stack web development and software engineering.
-- 🌱 Currently learning **DevOps  **.
+- 🌱 Currently learning **DevOps** and improving my software engineering skills.
 - 🔐 Interested in cybersecurity and application security.
 - 🧠 Enjoy solving problems and exploring new technologies.
 - 🚀 Focused on writing clean code and developing reliable applications.
@@ -44,6 +44,12 @@ Hello! I'm **Nadhii Jemal Abdula**, a 5th-year Software Engineering student at H
 ---
 
 ## 🛠️ Technical Skills
+
+### Programming Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,dotnet,php" alt="Java, C++, C#, .NET, PHP" />
+</p>
 
 ### Frontend Development
 
@@ -119,14 +125,13 @@ I value readable code, clear responsibilities, maintainable architecture, approp
 
 <p>
   <img src="https://img.shields.io/badge/DevOps-Learning-2ECC71?style=for-the-badge&logo=docker&logoColor=white" alt="Learning DevOps" />
-  <img src="https://img.shields.io/badge/Django-Learning-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Learning Django" />
 </p>
 
 My current learning goals:
 
 - Understanding Docker and containerization.
 - Learning deployment workflows and CI/CD fundamentals.
-- Building backend applications with next js 
+- Improving full-stack development with React and Next.js.
 - Improving API design and application security.
 - Strengthening software architecture and problem-solving skills.
 
@@ -175,5 +180,4 @@ I'm happy to connect with developers, learn from the tech community, and collabo
 
 </div>
 
-<!-- Last updated: October 19, 2026 -->
-
+<!-- Last updated: November 19, 2026 -->
